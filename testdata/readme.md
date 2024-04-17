@@ -1,0 +1,1 @@
+This directory is copied from <https://github.com/cloudwego/hertz/tree/7710e718e388bfa7a3085cbb608faa52075a1988/cmd/hz/testdata/thrift>.
