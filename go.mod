@@ -1,4 +1,4 @@
-module thrift-gen-cwgo-swagger
+module github.com/cloudwego-contrib/thrift-gen-cwgo-swagger
 
 go 1.22
 
