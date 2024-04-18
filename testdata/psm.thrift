@@ -119,6 +119,4 @@ service Hertz {
 
     Resp Method9(1: IsTypedefContainer request) (api.get="/typedef/container", api.handler_path="v2");
     Resp Method10(1:  map<string, string> request) (api.get="/container", api.handler_path="v2");
-    // is this valid?
-    Resp Method11(1:  map<string, string> request) (api.get="/container", api.post="/container", api.handler_path="v2");
 }
